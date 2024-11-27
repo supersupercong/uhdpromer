@@ -4,7 +4,7 @@ This is the official PyTorch codes for the paper
 [Implicit Neural Discrimination-Prompted
 Transformers for Efficient UHD Image
 Restoration and Enhancement]  
-[Cong Wang](https://scholar.google.com/citations?user=0DrHHRwAAAAJ&hl=zh-CN), [Jinshan Pan](https://jspan.github.io/), Wei Wang, Liyan Wang, [Gang Fu](https://scholar.google.com/citations?hl=zh-CN&user=2k1Hcd4AAAAJ), [Renqi Ren](https://scholar.google.com/citations?user=VwfgfR8AAAAJ&hl=zh-CN), [Dongwei Ren](https://scholar.google.com/citations?hl=zh-CN&user=pKmdGZgAAAAJ), [Xiaochun Cao](https://scholar.google.com/citations?user=PDgp6OkAAAAJ&hl=zh-CN)
+[Cong Wang](https://scholar.google.com/citations?user=0DrHHRwAAAAJ&hl=zh-CN), [Jinshan Pan](https://jspan.github.io/), Liyan Wang, Wei Wang
 
 
 ## License
@@ -13,5 +13,5 @@ Restoration and Enhancement]
 
 ## Contact
 
-Any questions can contact: Cong Wang [supercong94@gmail.com]
+Contact: Cong Wang [supercong94@gmail.com]
 
