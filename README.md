@@ -52,11 +52,11 @@ bash train.sh
 bash test.sh
 ```
 
-### Visual results
+## Visual results
 [UHD-LL&UHD-Haze&UHD-Blur&LOL-GoPro-SOTS](https://drive.google.com/drive/folders/1rJ2iNrOIXh6StHDX5I8S1VkWMSwBNa3U)
 
 
-### Pretrained models
+## Pretrained models
 [UHD-LL&UHD-Haze&UHD-Blur](https://drive.google.com/drive/folders/1heFkUhQDdOPL-mU5MlncfiAtW28TL8RA?usp=sharing)
 
 
